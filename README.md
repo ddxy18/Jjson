@@ -1,4 +1,13 @@
 # Jjson
+
+install jar to your own local repository and use dependency as below:
+```
+<dependency>
+    <groupId>com.dxy.tool</groupId>
+    <artifactId>Jjson</artifactId>
+    <version>1.0-SNAPSHOT</version>
+</dependency>
+```
 a parser to turn json to java objects and turn java objects to json
 - json to java:<br>
  ```JSONUtil.getJavaObject()```
